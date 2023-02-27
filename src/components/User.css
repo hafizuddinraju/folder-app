@@ -1,0 +1,62 @@
+.child-folder-control{
+    width: 300px;
+    height: auto;
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 10px;
+
+}
+.root-control-child{
+    display: flex;
+    justify-content: space-between;
+    
+    gap: 100px;
+    
+
+}
+.root-control-child-1{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    
+
+}
+.root-control{
+    width: 300px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 200px;
+    margin: auto;
+
+}
+.icon-flex{
+    display: flex;
+    align-items: center;
+    
+}
+
+.icon-flex-new{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    
+    
+}
+.headline-text{
+    text-align: center;
+}
+.icon-size{
+    font-size: 20px;
+    margin-left: 5px;
+}
+.input-field{
+    border-radius: 10px;
+    padding: 5px;
+}
+.input-field1{
+    margin-top: 19px;
+    border-radius: 10px;
+    padding: 5px;
+}
